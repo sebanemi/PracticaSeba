@@ -1,0 +1,14 @@
+########### AGENDA ###########
+
+Persona 1:
+  NOMBRE: seba
+  EDAD: 19
+---------------------------
+Persona 2:
+  NOMBRE: sebastian
+  EDAD: 21
+  DIRECCION: falucho 2501
+  TELEFONO: 111111
+---------------------------
+######### FIN #########
+
